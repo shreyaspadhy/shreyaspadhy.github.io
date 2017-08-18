@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 markdown: redcarpet
-exclude: ['GradResume.pdf', 'GRE Resources.md']
+exclude: ['GradResume.pdf']
 =======
 theme: jekyll-theme-cayman
 >>>>>>> a4e50e7578d83f1fddc974874267d099185ef19f
