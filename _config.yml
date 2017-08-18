@@ -1,0 +1,2 @@
+markdown: redcarpet
+exclude: ['GradResume.pdf', 'GRE Resources.md']
