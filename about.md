@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a first year Biomedical Engineering Graduate Student at the Johns Hopkins University. Previously, I have a Bachelors in Engineering Physics from the Indian Institute of Technology.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My research interests include medical imaging, computational neuroscience, and increasingly, ML and DL methods in medicine and biology. [This paper](http://www.biorxiv.org/content/early/2017/05/28/142760) is a good beginning resource to understand the scope of ML/DL in biology and medicine.
