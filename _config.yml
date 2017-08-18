@@ -1,4 +1,4 @@
 exclude: ['GradResume.pdf', 'GRE Resources.md']
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 name: Shreyas Padhy
 description: BME Graduate Student at JHU
