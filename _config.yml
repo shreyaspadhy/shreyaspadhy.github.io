@@ -1,4 +1,3 @@
 markdown: redcarpet
 exclude: ['GradResume.pdf']
-=======
 theme: jekyll-theme-cayman
