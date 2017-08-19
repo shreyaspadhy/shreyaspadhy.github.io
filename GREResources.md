@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 # GRE Preparation Guide
 
