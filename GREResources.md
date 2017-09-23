@@ -1,6 +1,3 @@
----
-layout: post
----
 # GRE Preparation Guide
 
 The GRE has 3 basic sections:
